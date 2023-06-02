@@ -1,0 +1,19 @@
+:root {
+    --background-color: #101010;
+    --background-navigation: #020202;
+    --background-progressbar: #191919;
+    --white: whitesmoke;
+    --white-light: rgb(255, 255, 255,.8);
+
+  }
+  
+  * {
+    margin: 0;
+  }
+
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
